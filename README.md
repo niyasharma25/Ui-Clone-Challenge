@@ -6,8 +6,7 @@ A clone of the Netflix India landing page built with pure HTML, CSS, and JavaScr
 
 ## 🔗 Live Demo
 
-> Open `netflix-clone.html` in any browser — no setup needed.
-> Or deploy instantly at [netlify.com/drop](https://netlify.com/drop)
+> https://niyasharma25.github.io/Ui-Clone-Challenge/
 
 ---
 
